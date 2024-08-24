@@ -1,13 +1,14 @@
 # PScore
 
-This project is the software graduation project using React Native, Node.js, and MongoDB.
+This is the frontend  part of our graduation project built by using ReacJs, NodeJs as backend and MongoDB as database.
+Here you can find the backend part : https://github.com/AhmadDarawsheh/PScore-Backend
 
 ## Project Slides
 
 [View Project Slides](https://drive.google.com/file/d/1eVgluoQjbUWlS6rNOx9gkExaaeD2-gtO/view?usp=sharing)
 
 ## How to Run the Project
-1. enter mobile project files:
+1. Enter mobile project files:
    ```bash
    cd PScore
 2. Install dependencies:
