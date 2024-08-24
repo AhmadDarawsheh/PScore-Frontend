@@ -1,0 +1,29 @@
+.horizontal-line {
+  width: 100%;
+  height: 2px;
+  position: relative;
+  overflow: hidden;
+}
+
+.line-animation {
+  width: 100%;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  animation: line-disappear 4s forwards;
+}
+
+@keyframes line-disappear {
+  0% {
+    left: 0;
+    width: 100%;
+  }
+  50% {
+    left: 50%;
+    width: 0;
+  }
+  100% {
+    left: 50%;
+    width: 0;
+  }
+}
